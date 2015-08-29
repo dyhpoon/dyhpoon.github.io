@@ -10,8 +10,8 @@ redirect_from: "/"
 
     *Software Developer*, Sep 2013 - Present
 
-    - Developed "Grab for Instagram" in both Android and iOS version.
-    	- Awarded the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
+    - Develop "Grab for Instagram" in both Android and iOS version.
+    	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
     	- Over million of users have downloaded and rated 4+ in [app store](https://itunes.apple.com/hk/app/grab-for-instagram-your-instagram/id546639267?mt=8)
     	- Over 100,000+ of active users are using daily
 <div class="section group">
@@ -23,9 +23,9 @@ redirect_from: "/"
 	</div>
 </div>
 
-    - Automated tests and error reports by setting up a Jenkins CI server with other tools: [xctool](https://github.com/facebook/xctool), [docker](https://github.com/docker/docker) and [stf](https://github.com/openstf/stf).
+    - Automate tests and error reports by setting up a Jenkins CI server with other tools: [xctool](https://github.com/facebook/xctool), [docker](https://github.com/docker/docker) and [stf](https://github.com/openstf/stf).
 
-    - Developed a restful Instagram-like backend server and a centralized authentication system using LAMP stack.
+    - Develop a restful Instagram-like backend server and a centralized authentication system using LAMP stack.
 
     - Some other internal side projects that I wrote:
 		- Instagram SDK in both Android and iOS
@@ -37,7 +37,7 @@ redirect_from: "/"
 *   ***Coffee Game*** (Hong Kong)
 
     *Game Developer*, Jun 2013 - Aug 2013
-    -   Designed and developed a mobile game called "Attack on Pirates"
+    -   Develop a mobile game called "Attack on Pirates"
     -   It is also open source on [here](https://github.com/dyhpoon/game-project)
 
 *   ***Macsteel International Far East Ltd*** (Hong Kong)
