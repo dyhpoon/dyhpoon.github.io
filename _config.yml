@@ -7,20 +7,24 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Portfolio
+tagline:          'Darren Poon'
+description:      'Passionate in coding and learning new tech. I hope I will be able to work with a team with similar passion.'
+url:              http://dyhpoon.github.io/resume
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Darren Poon'
   url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         1
 
 # Custom vars
-version:          2.1.0
-
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/dyhpoon
+
+linkedin:
+  url:            https://www.google.com
+
+docker:
+  url:            https://hub.docker.com/u/dyhpoon/
