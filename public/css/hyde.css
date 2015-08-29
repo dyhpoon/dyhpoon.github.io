@@ -49,6 +49,26 @@ html {
   font-size: 15px;
 }
 
+.tiny-text-size {
+  font-size: 70%;
+}
+
+.small-text-size {
+  font-size: 85%;
+}
+
+.italic {
+  font-style: italic;
+}
+
+ul ul {
+  font-size: 90%;
+}
+
+ul ul ul {
+  font-size: 85%;
+}
+
 /*
  * Sidebar
  *
@@ -249,5 +269,5 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
-  color: #8f5536;
+  color: #268bd2;
 }

@@ -22,10 +22,9 @@ redirect_from: "/"
     - Some other internal side projects that I wrote:
 		- Instagram SDK in both Android and iOS
 		- Facebook paper like tutorial framework in iOS which is inspired by [Flow](https://github.com/OliverLetterer/Flow) and [Paper Team](https://www.youtube.com/watch?v=OiY1cheLpmI)
-			- ![](screenshots/tutorial.png)
-
+			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/tutorial.png)
 		- Bubble Search Bar
-			- ![](screenshots/bubbleSearchBar.png)
+			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/bubbleSearchBar.png)
 
 *   ***Coffee Game*** (Hong Kong)
 
@@ -41,12 +40,47 @@ redirect_from: "/"
 	
 ##My Open Source Projects
 ---
-* [Fo.dex](https://github.com/dyhpoon/Fo.dex) - An Android application allows you to index photos at ease.
-	- ![](screenshots/fodex.gif)
-* [Attack on Pirates](https://github.com/dyhpoon/Attack-on-Pirates) - A simple 2D puzzle game.
-	- ![](screenshots/aop.gif)
-* [Android Dockerfiles](https://github.com/dyhpoon/Android-Dockerfiles) - Containerized Android Emulator in docker.
-* [VotePlex](https://github.com/dyhpoon/voteplex) - A simple voting web application using MEAN stack.
+<div class="section group">
+	<div class="col span_1_of_2 v-center text-left">
+		<div class="display-block">
+			<a href="https://github.com/dyhpoon/Fo.dex">Fo.dex</a>
+			<br/>
+			An Android application allows you to index photos at ease.
+		</div>
+	</div>
+	<div class="col span_1_of_2">
+		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/fodex.gif">
+	</div>
+</div>
+<br/>
+
+<div class="section group">
+	<div class="col span_1_of_2 v-center text-left">
+		<div class="display-block">
+			<a href="https://github.com/dyhpoon/Attack-on-Pirates">Attack on Pirates</a>
+			<br/>
+			A simple 2D puzzle game.
+		</div>
+	</div>
+	<div class="col span_1_of_2">
+		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/aop.gif">
+	</div>
+</div>
+<br/>
+
+[Android Dockerfiles](https://github.com/dyhpoon/Android-Dockerfiles) - Containerized Android Emulator in docker.
+<p class="italic small-text-size">Example usage:</p>
+{% highlight js %}
+	docker run --privileged -it \
+	-v /Path/to/your/android/project/:/workspace \
+	dyhpoon/android-emulator-21 start-emulator \
+	"./gradlew connectedAndroidTest"
+{% endhighlight %}
+<br/>
+
+[VotePlex](https://github.com/dyhpoon/voteplex) - A simple voting web application using MEAN stack.
+<br/>
+<br/>
 
 ##Education
 ---
@@ -56,8 +90,12 @@ redirect_from: "/"
     
     Overall GPA: 3.52/4.00 (Distinction)
     
-	**Related Courses:**
-	*Software Engineering, Distributed System, Data Warehousing and Data Mining, Computer Graphic, Internet Application Development, Cryptography, Info Security of e-Commerce, Info Security Technology Management*
+    <div class="message tiny-text-size">
+	    Related Courses:
+	    <div class="italic">
+			Software Engineering, Distributed System, Data Warehousing and Data Mining, Computer Graphic, Internet Application Development, Cryptography, Info Security of e-Commerce, Info Security Technology Management
+		</div>
+    </div>
     
 *	***University of Waterloo*** (Ontario, Canada)
 
@@ -65,8 +103,12 @@ redirect_from: "/"
 	
 	Major Average: 72.93/100
 	
-	**Related Courses:**
-	*Object-Oriented Software Development, Computer Networks, Database Management, Algorithms, Operating Systems, 	Artificial Intelligence, Computer Security and Privacy, Data Structures and Data Management, Foundation of Sequential Programs, Logic and Computation, Numerical Computation*
+	<div class="message tiny-text-size">
+		Related Courses:
+		<div class="italic">
+			Object-Oriented Software Development, Computer Networks, Database Management, Algorithms, Operating Systems, Artificial Intelligence, Computer Security and Privacy, Data Structures and Data Management, Foundation of Sequential Programs, Logic and Computation, Numerical Computation
+		</div>
+	</div>
 
 ##Skills
 ---
