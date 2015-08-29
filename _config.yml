@@ -12,6 +12,8 @@ tagline:          'Darren Poon'
 description:      'Passionate in coding and learning new tech. I hope I will be able to work with a team with similar passion.'
 url:              http://dyhpoon.github.io/resume
 baseurl:          /
+error:
+  redirect_url:   /resume
 
 author:
   name:           'Darren Poon'
@@ -28,3 +30,6 @@ linkedin:
 
 docker:
   url:            https://hub.docker.com/u/dyhpoon/
+
+gems:
+    - jekyll-redirect-from
