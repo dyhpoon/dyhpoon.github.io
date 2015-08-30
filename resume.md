@@ -16,7 +16,7 @@ redirect_from: "/"
     	- Over 100,000+ of active users are using daily
 <div class="section group">
 	<div class="col span_1_of_2">
-		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.png">
+		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
 	</div>
 	<div class="col span_1_of_2">
 		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab2.png">
