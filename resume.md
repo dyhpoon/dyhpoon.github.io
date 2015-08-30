@@ -15,11 +15,14 @@ redirect_from: "/"
     	- Over million of users have downloaded and rated 4+ in [app store](https://itunes.apple.com/hk/app/grab-for-instagram-your-instagram/id546639267?mt=8)
     	- Over 100,000+ of active users are using daily
 <div class="section group">
-	<div class="col span_1_of_2">
+	<div class="col span_1_of_3">
 		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
 	</div>
-	<div class="col span_1_of_2">
+	<div class="col span_1_of_3">
 		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab2.png">
+	</div>
+	<div class="col span_1_of_3">
+		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab3.png">
 	</div>
 </div>
 
