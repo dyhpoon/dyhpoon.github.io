@@ -15,6 +15,7 @@ baseurl:          /
 error:
   redirect_url:   /resume
 pdf_url:		  https://github.com/dyhpoon/dyhpoon.github.io/raw/master/public/resume/darrenCV.pdf
+email:            dyhpoon@gmail.com
 
 author:
   name:           'Darren Poon'
