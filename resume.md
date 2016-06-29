@@ -6,6 +6,16 @@ redirect_from: "/"
 
 ##Work Experience
 ---
+*   ***Branch8 Ltd (YC S15)*** (Hong Kong)
+    - Designed, developed and maintained [branch8.com](https://www.branch8.com/)
+      - Over 3 million of products are managed by branch8
+    - Developed a chrome extension “[8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en)” that finds cheaper price on Lazada using [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [AzureML](https://azure.microsoft.com/zh-tw/services/machine-learning/), and etc
+  <div class="section group">
+  	<div class="col span_1_of_1">
+  		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/eightbuy.png">
+  	</div>
+  </div>
+
 *   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
 
     *Software Developer*, Sep 2013 - Present
@@ -48,7 +58,7 @@ redirect_from: "/"
     *Intern*, May 2009 - Jul 2009
 
     -   Data analysis
-	
+
 ##My Open Source Projects
 ---
 <div class="section group">
@@ -98,22 +108,22 @@ redirect_from: "/"
 *   ***City University of Hong Kong*** (Hong Kong)
 
     *M.S. in Computer Science*, Sep 2012 - Jul 2013
-    
+
     Overall GPA: 3.52/4.00 (Distinction)
-    
+
     <div class="message tiny-text-size">
 	    Related Courses:
 	    <div class="italic">
 			Software Engineering, Distributed System, Data Warehousing and Data Mining, Computer Graphic, Internet Application Development, Cryptography, Info Security of e-Commerce, Info Security Technology Management
 		</div>
     </div>
-    
+
 *	***University of Waterloo*** (Ontario, Canada)
 
 	*B.CS (Honour)*, Sep 2008 - Jun 2012
-	
+
 	Major Average: 72.93/100
-	
+
 	<div class="message tiny-text-size">
 		Related Courses:
 		<div class="italic">
@@ -130,5 +140,3 @@ redirect_from: "/"
 * Languages
 	* Proficient: Objective-C, Java
 	* Prior experience: Javascript, PHP, Swift, Python, C++, Lua, Scheme, R
-
-
