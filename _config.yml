@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Portfolio
@@ -13,8 +12,8 @@ description:      'Passionate in coding and learning new tech. I hope I will be 
 url:              http://dyhpoon.github.io/resume
 baseurl:          /
 error:
-  redirect_url:   /resume
-pdf_url:		  https://github.com/dyhpoon/dyhpoon.github.io/raw/master/public/resume/darrenCV.pdf
+redirect_url:     /resume
+pdf_url:		      https://github.com/dyhpoon/dyhpoon.github.io/raw/master/public/resume/darrenCV.pdf
 email:            dyhpoon@gmail.com
 
 author:
