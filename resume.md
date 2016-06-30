@@ -7,6 +7,9 @@ redirect_from: "/"
 ##Work Experience
 ---
 *   ***Branch8 Ltd (YC S15)*** (Hong Kong)
+
+    *Software Engineer*, Feb 2016 - Present
+
     - Designed, developed and maintained [branch8.com](https://www.branch8.com/)
       - Over 3 million of products are managed by branch8
     - Developed a chrome extension “[8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en)” that finds cheaper price on Lazada
@@ -19,7 +22,7 @@ redirect_from: "/"
 
 *   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
 
-    *Software Developer*, Sep 2013 - Present
+    *Software Developer*, Sep 2013 - Feb 2016
 
     - Develop "Grab for Instagram" in both Android and iOS version.
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
