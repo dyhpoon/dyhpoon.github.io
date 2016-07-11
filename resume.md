@@ -6,7 +6,7 @@ redirect_from: "/"
 
 ##Work Experience
 ---
-*   ***Branch8 Ltd (YC S15)*** (Hong Kong)
+*   ***Branch8 Ltd ([YCombinator](https://www.ycombinator.com/) S15)*** (Hong Kong)
 
     *Software Engineer*, Feb 2016 - Present
 
