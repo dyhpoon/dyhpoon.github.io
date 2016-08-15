@@ -64,14 +64,15 @@ redirect_from: "/"
 *   ***Coffee Game*** (Hong Kong)
 
     *Game Developer*, Jun 2013 - Aug 2013
-    -   Develop a mobile game called "Attack on Pirates"
-    -   It is also open source on [here](https://github.com/dyhpoon/game-project)
+
+    - Developed a mobile game called "Attack on Pirates"
+    - It is also open source on [here](https://github.com/dyhpoon/game-project)
 
 *   ***Macsteel International Far East Ltd*** (Hong Kong)
 
     *Intern*, May 2009 - Jul 2009
 
-    -   Data analysis
+    - Data analysis
 
 ## My Open Source Projects
 -----
