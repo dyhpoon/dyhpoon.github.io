@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Portfolio
 tagline:          'Darren Poon'
 description:      'Passionate in coding and learning new tech. I hope I will be able to work with a team with similar passion.'
-url:              http://dyhpoon.github.io
+url:              http://dyhpoon.github.io/resume
 baseurl:          /
 error:
 redirect_url:     /resume

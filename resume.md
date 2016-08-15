@@ -4,8 +4,8 @@ title: My Resume
 redirect_from: "/"
 ---
 
-##Work Experience
----
+## Work Experience
+-----
 *   ***Branch8 Ltd ([YCombinator](https://www.ycombinator.com/) S15)*** (Hong Kong)
 
     *Software Engineer*, Feb 2016 - Present
@@ -13,20 +13,21 @@ redirect_from: "/"
     - Developed and maintained company websites [branch8.com](https://www.branch8.com/)
       - Over 3 million of products are managed by branch8
       - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
-<div class="section group">
-	<div class="col span_1_of_1">
-		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/branch8.png">
-	</div>
-</div>
+		<div class="section group">
+			<div class="col span_1_of_1">
+				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/branch8.png">
+			</div>
+		</div>
+
     - Developed a chrome extension “[8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en)” that finds cheaper price on Lazada
       - Stack: [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [material-ui](http://www.material-ui.com/#/), [bluebird](https://github.com/petkaantonov/bluebird), [AzureML](https://azure.microsoft.com/zh-tw/services/machine-learning/), and etc
-<div class="section group">
-	<div class="col span_1_of_1">
-		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/eightbuy.png">
-	</div>
-</div>
+		<div class="section group">
+			<div class="col span_1_of_1">
+				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/eightbuy.png">
+			</div>
+		</div>
 	- Developed other side projects.
-		- 8Checkout
+		- [8Checkout](https://checkout.branch8.com/?url=http://www.lazada.sg/apple-iphone-6s-64gb-gold-6668152.html?offer_id=481&affiliate_id=104786&offer_name=SG+Data-feed_0&affiliate_name=Branch8+Limited&transaction_id=102ee5773344369da92f255d29de48)
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/8checkout.png)
 
 *   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
@@ -37,17 +38,17 @@ redirect_from: "/"
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
     	- Over million of users have downloaded and rated 4+ in [app store](https://itunes.apple.com/hk/app/grab-for-instagram-your-instagram/id546639267?mt=8) and [google play](https://play.google.com/store/apps/details?id=com.grandsoft.instagrab)
     	- Over 100,000+ of active users are using daily
-<div class="section group">
-	<div class="col span_1_of_3">
-		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
-	</div>
-	<div class="col span_1_of_3">
-		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab2.png">
-	</div>
-	<div class="col span_1_of_3">
-		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab3.png">
-	</div>
-</div>
+			<div class="section group">
+				<div class="col span_1_of_3">
+					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
+				</div>
+				<div class="col span_1_of_3">
+					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab2.png">
+				</div>
+				<div class="col span_1_of_3">
+					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab3.png">
+				</div>
+			</div>
 
     - Automate tests and error reports by setting up a Jenkins CI server with other tools: [xctool](https://github.com/facebook/xctool), [docker](https://github.com/docker/docker) and [stf](https://github.com/openstf/stf).
 
@@ -72,8 +73,8 @@ redirect_from: "/"
 
     -   Data analysis
 
-##My Open Source Projects
----
+## My Open Source Projects
+-----
 <div class="section group">
 	<div class="col span_1_of_2 v-center text-left">
 		<div class="display-block">
@@ -116,8 +117,8 @@ redirect_from: "/"
 <br/>
 <br/>
 
-##Education
----
+## Education
+-----
 *   ***City University of Hong Kong*** (Hong Kong)
 
     *M.S. in Computer Science*, Sep 2012 - Jul 2013
@@ -144,8 +145,8 @@ redirect_from: "/"
 		</div>
 	</div>
 
-##Skills
----
+## Skills
+-----
 * Software, Frameworks and Others
 	* Proficient: Android, iOS, MySQL, Git, Jenkins, Docker, Cocoapods, Gradle, scripting
 	* Prior experience: HTML, Corona SDK, Node.js, Express.js, Angular.js, Bootstrap CSS, MongoDB, Memcache, AWS
