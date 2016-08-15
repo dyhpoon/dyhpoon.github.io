@@ -10,8 +10,14 @@ redirect_from: "/"
 
     *Software Engineer*, Feb 2016 - Present
 
-    - Designed, developed and maintained [branch8.com](https://www.branch8.com/)
+    - Developed and maintained company websites [branch8.com](https://www.branch8.com/)
       - Over 3 million of products are managed by branch8
+      - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
+<div class="section group">
+	<div class="col span_1_of_1">
+		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/branch8.png">
+	</div>
+</div>
     - Developed a chrome extension “[8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en)” that finds cheaper price on Lazada
       - Stack: [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [material-ui](http://www.material-ui.com/#/), [bluebird](https://github.com/petkaantonov/bluebird), [AzureML](https://azure.microsoft.com/zh-tw/services/machine-learning/), and etc
 <div class="section group">
@@ -19,10 +25,13 @@ redirect_from: "/"
 		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/eightbuy.png">
 	</div>
 </div>
+	- Developed other side projects.
+		- 8Checkout
+			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/8checkout.png)
 
 *   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
 
-    *Software Developer*, Sep 2013 - Feb 2016
+    *Senior Software Developer*, Sep 2013 - Feb 2016
 
     - Develop "Grab for Instagram" in both Android and iOS version.
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
