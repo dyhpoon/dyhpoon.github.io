@@ -29,6 +29,8 @@ redirect_from: "/"
 	- Developed other side projects.
 		- [8Checkout](https://checkout.branch8.com/?url=http://www.lazada.sg/apple-iphone-6s-64gb-gold-6668152.html?offer_id=481&affiliate_id=104786&offer_name=SG+Data-feed_0&affiliate_name=Branch8+Limited&transaction_id=102ee5773344369da92f255d29de48)
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/8checkout.png)
+		- Cadobox (chatbot)
+			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/cadobox.gif)
 
 *   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
 
