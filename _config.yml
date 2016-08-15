@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Portfolio
 tagline:          'Darren Poon'
 description:      'Passionate in coding and learning new tech. I hope I will be able to work with a team with similar passion.'
-url:              http://dyhpoon.github.io/resume
+url:              http://dyhpoon.github.io
 baseurl:          /
 error:
 redirect_url:     /resume
