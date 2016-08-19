@@ -40,6 +40,7 @@ redirect_from: "/"
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
     	- Over million of users have downloaded and rated 4+ in [app store](https://itunes.apple.com/hk/app/grab-for-instagram-your-instagram/id546639267?mt=8) and [google play](https://play.google.com/store/apps/details?id=com.grandsoft.instagrab)
     	- Over 100,000+ of active users are using daily
+    	- <p style="color:red">The app has been taken down from app store due to <a href="http://developers.instagram.com/post/133424514006/instagram-platform-update">Instagram API deprecation</a> 😞</p>
 			<div class="section group">
 				<div class="col span_1_of_3">
 					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
