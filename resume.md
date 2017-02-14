@@ -148,9 +148,9 @@ redirect_from: "/"
 ## Skills
 -----
 * Software, Frameworks and Others
-	* Proficient: Android, iOS, MySQL, Git, Jenkins, Docker, Cocoapods, Gradle, scripting
-	* Prior experience: HTML, Corona SDK, Node.js, Express.js, Angular.js, Bootstrap CSS, MongoDB, Memcache, AWS
+	* Proficient: Android, RDBS, Git, Jenkins, Docker, Gradle, Azure, Heroku, Node.js, Redis, scripting
+	* Prior experience: HTML, Corona SDK, Angular.js, CSS, MongoDB, iOS, Cocoapods, Memcache, React.js, AWS
 
 * Languages
-	* Proficient: Objective-C, Java
-	* Prior experience: Javascript, PHP, Swift, Python, C++, Lua, Scheme, R
+	* Objective-C, Java, Javascript
+	* Prior experience: Javascript, PHP, Golang, Swift, Python, C++, Lua, Scheme, R
