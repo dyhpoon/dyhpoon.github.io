@@ -32,4 +32,3 @@ docker:
 
 gems:
     - jekyll-paginate
-    - jekyll-redirect-from

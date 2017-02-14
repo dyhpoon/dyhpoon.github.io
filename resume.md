@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My Resume
-redirect_from: "/"
 ---
 
 ## Work Experience
