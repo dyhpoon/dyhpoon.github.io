@@ -125,9 +125,7 @@ redirect_from: "/"
 -----
 *   ***City University of Hong Kong*** (Hong Kong)
 
-    *M.S. in Computer Science*, Sep 2012 - Jul 2013
-
-    Overall GPA: 3.52/4.00 (Distinction)
+    *M.S. in Computer Science* (Distinction), Sep 2012 - Jul 2013
 
     <div class="message tiny-text-size">
 	    Related Courses:
@@ -139,8 +137,6 @@ redirect_from: "/"
 *	***University of Waterloo*** (Ontario, Canada)
 
 	*B.CS (Honour)*, Sep 2008 - Jun 2012
-
-	Major Average: 72.93/100
 
 	<div class="message tiny-text-size">
 		Related Courses:
