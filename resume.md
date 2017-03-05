@@ -11,6 +11,7 @@ title: My Resume
 
     - Developed and maintained company websites [branch8.com](https://www.branch8.com/)
       - Over 3 million of products are managed by branch8
+	  - Stack: [Node.js](https://nodejs.org), [PHP](https://secure.php.net/), [AzureCS](https://azure.microsoft.com/en-us/services/container-service/), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Docker](https://www.docker.com/), [RxJS](http://reactivex.io/rxjs/), [express.js](http://expressjs.com/) and etc
       - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
 		<div class="section group">
 			<div class="col span_1_of_1">
