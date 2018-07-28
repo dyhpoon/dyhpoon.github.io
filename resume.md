@@ -10,8 +10,8 @@ title: My Resume
     *Software Engineer*, Feb 2016 - Present
 
     - Developed and maintained company websites [branch8.com](https://www.branch8.com/)
-      - Over 3 million of products are managed by branch8
-	  - Stack: [Node.js](https://nodejs.org), [PHP](https://secure.php.net/), [AzureCS](https://azure.microsoft.com/en-us/services/container-service/), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Docker](https://www.docker.com/), [RxJS](http://reactivex.io/rxjs/), [express.js](http://expressjs.com/) and etc
+      - Over 10 million of products are managed by branch8
+	  - Our Techstack: [Node.js](https://nodejs.org), [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/), [acs-engine](https://github.com/Azure/acs-engine), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Docker](https://www.docker.com/), [RxJS](http://reactivex.io/rxjs/), [express.js](http://expressjs.com/), [egg.js](https://github.com/eggjs/egg), [rematch.js](https://github.com/rematch/rematch) and etc
       - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
 		<div class="section group">
 			<div class="col span_1_of_1">
@@ -19,14 +19,18 @@ title: My Resume
 			</div>
 		</div>
 
-    - Developed a chrome extension “[8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en)” that finds cheaper price on Lazada
+    - [8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en) A chrome extension that finds cheaper price on Lazada
       - Stack: [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [material-ui](http://www.material-ui.com/#/), [bluebird](https://github.com/petkaantonov/bluebird), [AzureML](https://azure.microsoft.com/zh-tw/services/machine-learning/), and etc
 		<div class="section group">
 			<div class="col span_1_of_1">
 				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/eightbuy.png">
 			</div>
 		</div>
-	- Developed other side projects.
+	
+	- [cowsquare](https://app.cowsquare.com/) - An easier way to manage your invoices
+		- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/cowsquare.png)
+
+	- And other side projects
 		- 8Checkout - Offer products with cheaper price than Lazada
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/8checkout.png)
 		- Cadobox - An online diet restaurant
@@ -39,7 +43,7 @@ title: My Resume
     - Develop "Grab for Instagram" in both Android and iOS version.
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
     	- Over million of users have downloaded and rated 4+ in app store
-    	- Over 100,000+ of active users are using daily
+    	- Over 200,000+ of active users are using daily
     	- <p style="color:red">The app has been taken down from app store due to <a href="http://developers.instagram.com/post/133424514006/instagram-platform-update">Instagram's API deprecation</a> 😞</p>
 			<div class="section group">
 				<div class="col span_1_of_3">
@@ -148,9 +152,8 @@ title: My Resume
 ## Skills
 -----
 * Software, Frameworks and Others
-	* Proficient: Android, RDBS, Git, Jenkins, Docker, Gradle, Azure, Heroku, Node.js, Redis, scripting
-	* Prior experience: HTML, Corona SDK, Angular.js, CSS, MongoDB, iOS, Cocoapods, Memcache, React.js, AWS
+	* Proficient: RDBS, Git, Jenkins, Docker, Kubernetes, Node.js, Redis, scripting, Heroku, GCP, Azure, AWS, React.js
+	* Prior experience: HTML, Corona SDK, Angular.js, CSS, MongoDB, iOS, Cocoapods, Memcache, Gradle, Android
 
 * Languages
-	* Objective-C, Java, Javascript
-	* Prior experience: Javascript, PHP, Golang, Swift, Python, C++, Lua, Scheme, R
+	* Javascript, Java, Objective-C, PHP, Golang, Swift, Python, C++, Lua, Scheme, R
