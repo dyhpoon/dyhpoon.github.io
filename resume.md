@@ -18,6 +18,11 @@ title: My Resume
 				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/branch8.png">
 			</div>
 		</div>
+		<div class="section group">
+			<div class="col span_1_of_1">
+				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/b8-dashboard.png">
+			</div>
+		</div>
 
     - [8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en) A chrome extension that finds cheaper price on Lazada
       - Stack: [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [material-ui](http://www.material-ui.com/#/), [bluebird](https://github.com/petkaantonov/bluebird), [AzureML](https://azure.microsoft.com/zh-tw/services/machine-learning/), and etc
