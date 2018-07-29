@@ -23,9 +23,6 @@ title: My Resume
 				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/b8-dashboard.png">
 			</div>
 		</div>
-	
-	- [cowsquare](https://app.cowsquare.com/) - An easier way to manage your invoices
-		- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/cowsquare.png)
 
 	- And other side projects
 		- 8buy - A chrome extension that finds cheaper price on Lazada
