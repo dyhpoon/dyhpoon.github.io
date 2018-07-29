@@ -9,7 +9,7 @@ title: My Resume
 
     *Software Engineer*, Feb 2016 - Present
 
-    - Developed and maintained company websites [branch8.com](https://www.branch8.com/)
+    - Developed "[branch8.com](https://www.branch8.com/)" - a service to better manage products & orders across all marketplaces
       - Over 10 million of products are managed by branch8
 	  - Our Techstack: [Node.js](https://nodejs.org), [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/), [acs-engine](https://github.com/Azure/acs-engine), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Docker](https://www.docker.com/), [RxJS](http://reactivex.io/rxjs/), [express.js](http://expressjs.com/), [egg.js](https://github.com/eggjs/egg), [rematch.js](https://github.com/rematch/rematch) and etc
       - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
@@ -60,7 +60,7 @@ title: My Resume
 					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab3.png">
 				</div>
 			</div>
-	- Mavie - A social network app which is similar to Instagram
+	- [Mavie](https://itunes.apple.com/cn/app/%E5%90%8C%E4%BA%AB-%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB/id1215979862?mt=8) - A social network app which is similar to Instagram
 		<div class="section group">
 			<div class="col span_1_of_1">
 				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/mavie.png">
