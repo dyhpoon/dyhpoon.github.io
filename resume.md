@@ -23,19 +23,18 @@ title: My Resume
 				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/b8-dashboard.png">
 			</div>
 		</div>
-
-    - [8buy](https://chrome.google.com/webstore/detail/8buy-find-cheaper-prices/klmmacdelhgkpfhkifbcppibnbcpakhh?hl=en) A chrome extension that finds cheaper price on Lazada
-      - Stack: [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [material-ui](http://www.material-ui.com/#/), [bluebird](https://github.com/petkaantonov/bluebird), [AzureML](https://azure.microsoft.com/zh-tw/services/machine-learning/), and etc
-		<div class="section group">
-			<div class="col span_1_of_1">
-				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/eightbuy.png">
-			</div>
-		</div>
 	
 	- [cowsquare](https://app.cowsquare.com/) - An easier way to manage your invoices
 		- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/cowsquare.png)
 
 	- And other side projects
+		- 8buy - A chrome extension that finds cheaper price on Lazada
+			- Stack: [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [material-ui](http://www.material-ui.com/#/), [bluebird](https://github.com/petkaantonov/bluebird), [AzureML](https://azure.microsoft.com/zh-tw/services/machine-learning/), and etc
+				<div class="section group">
+					<div class="col span_1_of_1">
+						<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/eightbuy.png">
+					</div>
+				</div>
 		- 8Checkout - Offer products with cheaper price than Lazada
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/8checkout.png)
 		- Cadobox - An online diet restaurant
@@ -45,11 +44,11 @@ title: My Resume
 
     *Senior Software Developer*, Sep 2013 - Feb 2016
 
-    - Develop "Grab for Instagram" in both Android and iOS version.
+    - Developed "Grab for Instagram" in both Android and iOS version.
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
     	- Over million of users have downloaded and rated 4+ in app store
     	- Over 200,000+ of active users are using daily
-    	- <p style="color:red">The app has been taken down from app store due to <a href="http://developers.instagram.com/post/133424514006/instagram-platform-update">Instagram's API deprecation</a> 😞</p>
+    	- <p style="color:red">The app has been taken down from app store due to <a href="http://developers.instagram.com/post/133424514006/instagram-platform-update">Instagram's API deprecation</a></p>
 			<div class="section group">
 				<div class="col span_1_of_3">
 					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
@@ -61,6 +60,13 @@ title: My Resume
 					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab3.png">
 				</div>
 			</div>
+	- Mavie - A social network app which is similar to Instagram
+		<div class="section group">
+			<div class="col span_1_of_1">
+				<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/mavie.png">
+			</div>
+		</div>
+		
 
     - Automate tests and error reports by setting up a Jenkins CI server with other tools: [xctool](https://github.com/facebook/xctool), [docker](https://github.com/docker/docker) and [stf](https://github.com/openstf/stf).
 
