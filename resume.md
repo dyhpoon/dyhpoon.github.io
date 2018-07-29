@@ -34,7 +34,7 @@ title: My Resume
 				</div>
 		- 8Checkout - Offer products with cheaper price than Lazada
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/8checkout.png)
-		- Cadobox - An online diet restaurant
+		- Cadobox - An online diet restaurant (fb messenger)
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/cadobox.gif)
 
 *   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
