@@ -47,7 +47,7 @@ title: My Resume
     	- Over 200,000+ of active users are using daily
 		- [Appannie's historical ranking - android](https://www.appannie.com/apps/google-play/app/com.grandsoft.instagrab/app-ranking/?type=best-ranks)
 		- [Appannie's historical ranking - ios](https://www.appannie.com/apps/ios/app/instagrab-your-instagram-companion/app-ranking/?device=iphone&type=best-ranks)
-    	- <p style="color:red">The app has been taken down from app store due to <a href="http://developers.instagram.com/post/133424514006/instagram-platform-update">Instagram's API deprecation</a></p>
+    	- <p style="color:red">The app has been taken down from app store due to <a href="http://developers.instagram.com/post/133424514006/instagram-platform-update">Instagram's APIs deprecation</a></p>
 			<div class="section group">
 				<div class="col span_1_of_3">
 					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
