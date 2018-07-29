@@ -9,7 +9,7 @@ title: My Resume
 
     *Software Engineer*, Feb 2016 - Present
 
-    - Developed "[branch8.com](https://www.branch8.com/)" - a service to better manage products & orders across all marketplaces
+    - Developed [branch8](https://www.branch8.com/) - a service to better manage products & orders across all marketplaces
       - Over 10 million of products are managed by branch8
 	  - Our Techstack: [Node.js](https://nodejs.org), [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/), [acs-engine](https://github.com/Azure/acs-engine), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Docker](https://www.docker.com/), [RxJS](http://reactivex.io/rxjs/), [express.js](http://expressjs.com/), [egg.js](https://github.com/eggjs/egg), [rematch.js](https://github.com/rematch/rematch) and etc
       - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
@@ -34,7 +34,7 @@ title: My Resume
 				</div>
 		- 8Checkout - Offer products with cheaper price than Lazada
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/8checkout.png)
-		- Cadobox - An online diet restaurant
+		- Cadobox - An online diet restaurant (fb messenger)
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/cadobox.gif)
 
 *   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
