@@ -27,8 +27,5 @@ github:
 linkedin:
   url:            https://hk.linkedin.com/pub/darren-poon/b9/447/7b2
 
-docker:
-  url:            https://hub.docker.com/u/dyhpoon/
-
-gems:
+plugins:
     - jekyll-paginate

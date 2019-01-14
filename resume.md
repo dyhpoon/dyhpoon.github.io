@@ -5,13 +5,13 @@ title: My Resume
 
 ## Work Experience
 -----
-*   ***Branch8 Ltd ([YCombinator](https://www.ycombinator.com/) S15)*** (Hong Kong)
+*   ***Branch8 Ltd*** (backed by [YCombinator](https://www.ycombinator.com/) S15) (Hong Kong)
 
-    *Software Engineer*, Feb 2016 - Present
+    *Software Engineer*, Feb 2016 - Aug 2018
 
-    - Developed [branch8](https://www.branch8.com/) - a service to better manage products & orders across all marketplaces
+    - Developed [branch8](https://app.branch8.com/) - a service to better manage products & orders across all marketplaces
       - Over 10 million of products are managed by branch8
-	  - Our Techstack: [Node.js](https://nodejs.org), [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/), [acs-engine](https://github.com/Azure/acs-engine), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Docker](https://www.docker.com/), [RxJS](http://reactivex.io/rxjs/), [express.js](http://expressjs.com/), [egg.js](https://github.com/eggjs/egg), [rematch.js](https://github.com/rematch/rematch) and etc
+	  - Our Techstack: [Node.js](https://nodejs.org), [Kubernetes](https://kubernetes.io/), [acs-engine](https://github.com/Azure/acs-engine), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Docker](https://www.docker.com/), [RxJS](http://reactivex.io/rxjs/), [express.js](http://expressjs.com/), [egg.js](https://github.com/eggjs/egg), [rematch.js](https://github.com/rematch/rematch) and etc
       - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
 		<div class="section group">
 			<div class="col span_1_of_1">
@@ -45,9 +45,9 @@ title: My Resume
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
     	- Over million of users have downloaded and rated 4+ in app store
     	- Over 200,000+ of active users are using daily
-		- [Appannie's historical ranking - android](https://www.appannie.com/apps/google-play/app/com.grandsoft.instagrab/app-ranking/?type=best-ranks)
-		- [Appannie's historical ranking - ios](https://www.appannie.com/apps/ios/app/instagrab-your-instagram-companion/app-ranking/?device=iphone&type=best-ranks)
-    	- <p style="color:red">The app has been taken down from app store due to <a href="http://developers.instagram.com/post/133424514006/instagram-platform-update">Instagram's APIs deprecation</a></p>
+    	- [Appannie's historical ranking - ios](https://www.appannie.com/apps/ios/app/instagrab-your-instagram-companion/app-ranking/?device=iphone&type=best-ranks)
+    	- [Appannie's historical ranking - android](https://www.appannie.com/apps/google-play/app/com.grandsoft.instagrab/app-ranking/?type=best-ranks)
+
 			<div class="section group">
 				<div class="col span_1_of_3">
 					<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/grab1.gif">
@@ -94,12 +94,10 @@ title: My Resume
 ## My Open Source Projects
 -----
 <div class="section group">
-	<div class="col span_1_of_2 v-center text-left">
-		<div class="display-block">
-			<a href="https://github.com/dyhpoon/Fo.dex">Fo.dex</a>
-			<br/>
-			An Android application allows you to index photos at ease.
-		</div>
+	<div class="display-block">
+		<a href="https://github.com/dyhpoon/Fo.dex">Fo.dex</a>
+		<br/>
+		An Android application allows you to index photos at ease.
 	</div>
 	<div class="col span_1_of_2">
 		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/fodex.gif">
@@ -108,12 +106,10 @@ title: My Resume
 <br/>
 
 <div class="section group">
-	<div class="col span_1_of_2 v-center text-left">
-		<div class="display-block">
-			<a href="https://github.com/dyhpoon/Attack-on-Pirates">Attack on Pirates</a>
-			<br/>
-			A simple 2D puzzle game.
-		</div>
+	<div class="display-block">
+		<a href="https://github.com/dyhpoon/Attack-on-Pirates">Attack on Pirates</a>
+		<br/>
+		A simple 2D puzzle game.
 	</div>
 	<div class="col span_1_of_2">
 		<img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/aop.gif">
@@ -121,19 +117,14 @@ title: My Resume
 </div>
 <br/>
 
-[Android Dockerfiles](https://github.com/dyhpoon/Android-Dockerfiles) - Containerized Android Emulator in docker.
+[Android Dockerfiles](https://github.com/dyhpoon/Android-Dockerfiles) - Containerized Android Emulator
 <p class="italic small-text-size">Example usage:</p>
 {% highlight js %}
-	docker run --privileged -it \
+	docker run -it \
 	-v /Path/to/your/android/project/:/workspace \
 	dyhpoon/android-emulator-21 start-emulator \
 	"./gradlew connectedAndroidTest"
 {% endhighlight %}
-<br/>
-
-[VotePlex](https://github.com/dyhpoon/voteplex) - A simple voting web application using MEAN stack.
-<br/>
-<br/>
 
 ## Education
 -----
@@ -166,4 +157,11 @@ title: My Resume
 	* Prior experience: HTML, Corona SDK, Angular.js, CSS, MongoDB, iOS, Cocoapods, Memcache, Gradle, Android
 
 * Languages
-	* Javascript, Java, Objective-C, PHP, Golang, Swift, Python, C++, Lua, Scheme, R
+	* Javascript
+	* Prior experience: PHP, Golang, Swift, Python, C++, Lua, Scheme, R, Objective-C, Java
+
+* Certifications
+	* AWS Certified Cloud Practitioner
+	* AWS Certified SysOps Administrator - Associate
+	* AWS Certified Solutions Architect - Associate
+	* AWS Certified Developer - Associate
