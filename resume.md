@@ -11,7 +11,7 @@ title: My Resume
 
     - Developed [branch8](https://app.branch8.com/) - a service to better manage products & orders across all marketplaces
       - Over 10 million of products are managed by branch8
-	  - We used: [Node.js](https://nodejs.org), [Kubernetes](https://kubernetes.io/), [acs-engine](https://github.com/Azure/acs-engine), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Ant-Design](https://ant.design/), [Typescript](https://www.typescriptlang.org/), [RxJS](http://reactivex.io/rxjs/), [egg.js](https://github.com/eggjs/egg), [rematch.js](https://github.com/rematch/rematch), and etc
+	  - We used: [Node.js](https://nodejs.org), [Kubernetes](https://kubernetes.io/), [acs-engine](https://github.com/Azure/acs-engine), [Redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [Ant-Design](https://ant.design/), [Typescript](https://www.typescriptlang.org/), [RxJS](http://reactivex.io/rxjs/), [egg.js](https://github.com/eggjs/egg), [rematch.js](https://github.com/rematch/rematch), [Yarn workspace](https://yarnpkg.com/lang/en/docs/workspaces/), [event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), [__Monolithic__ architecture](https://microservices.io/patterns/monolithic.html) and etc
       - Find out more about us: [36kr (Chinese)](https://36kr.com/p/5036350.html), [Startupbeat (Chinese)](http://startupbeat.hkej.com/?p=20805), [TechCrunch](https://techcrunch.com/2015/08/11/branch8/)
 		<div class="section group">
 			<div class="col span_1_of_1">
