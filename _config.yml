@@ -17,7 +17,7 @@ email:            dyhpoon@gmail.com
 
 author:
   name:           'Darren Poon'
-  url:            https://twitter.com/mdo
+  url:            https://dyhpoon.me
 
 paginate:         1
 
@@ -26,7 +26,7 @@ github:
   repo:           https://github.com/dyhpoon
 
 linkedin:
-  url:            https://hk.linkedin.com/pub/darren-poon/b9/447/7b2
+  url:            https://www.linkedin.com/in/darren-poon-7b2447b9
 
 plugins:
     - jekyll-paginate
