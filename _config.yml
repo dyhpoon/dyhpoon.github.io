@@ -10,6 +10,7 @@ title:            Portfolio
 tagline:          'Darren Poon'
 description:      'Passionate in coding and learning new tech. I hope I will be able to work with a team with similar passion.'
 baseurl:          /
+url:              https://dyhpoon.me
 error:
 pdf_url:		      https://github.com/dyhpoon/dyhpoon.github.io/raw/master/public/resume/darrenCV.pdf
 email:            dyhpoon@gmail.com

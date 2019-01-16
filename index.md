@@ -1,6 +1,7 @@
 ---
+title: Home
+layout: default
 layout: page
-title: My Resume
 ---
 
 ## Work Experience
