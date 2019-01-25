@@ -162,7 +162,7 @@ layout: page
 	* Prior experience: PHP, Golang, Swift, Python, C++, Lua, Scheme, R, Objective-C, Java
 
 * Certifications
-	* AWS Certified Cloud Practitioner
-	* AWS Certified SysOps Administrator - Associate
-	* AWS Certified Solutions Architect - Associate
-	* AWS Certified Developer - Associate
+	* [AWS Certified Cloud Practitioner](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-09-05&ci=AWS00544952)
+	* [AWS Certified SysOps Administrator - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-22&ci=AWS00544952)
+	* [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-10-29&ci=AWS00544952)
+	* [AWS Certified Developer - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-08-27&ci=AWS00544952)
