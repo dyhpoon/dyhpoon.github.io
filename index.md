@@ -10,7 +10,7 @@ layout: page
 
     *Software Engineer* (Mar 2019 - Present)
 
-    - Migrated loan disbursement system from ACH (Automated Clearing House) to FPS (Fast Payment System)
+    - Migrated Welend's loan disbursement system from ACH (Automated Clearing House) to FPS (Fast Payment System)
       - processing billions of HKD annually
     - Participated in building one of the first virtual banks in Hong Kong
       - Worked with our team to design, implement, and extend our backend platform
