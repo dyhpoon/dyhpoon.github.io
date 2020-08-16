@@ -6,9 +6,26 @@ layout: page
 
 ## Work Experience
 -----
-*   ***Branch8 Ltd*** (backed by [YCombinator](https://www.ycombinator.com/) S15) (Hong Kong)
+*   ***Welab Bank***
 
-    *Software Engineer*, Feb 2016 - Aug 2018
+    *Software Engineer* (Mar 2019 - Present)
+
+    - Migrated loan disbursement system from ACH (Automated Clearing House) to FPS (Fast Payment System)
+      - processing billions of HKD annually
+    - Participated in building one of the first virtual banks in Hong Kong
+      - Worked with our team to design, implement, and extend our backend platform
+      - Designed, developed security solutions to keep application data secure in dynamic infrastructure across clouds and environments
+      - Extended and automated our deployment pipeline with CICD
+      - We used: [Kubernetes](https://kubernetes.io/), [Airflow](https://airflow.apache.org/), [PostgreSQL](https://www.postgresql.org/), [Vault](https://www.vaultproject.io/), [Terraform](https://www.terraform.io/), [Zabbix](https://www.zabbix.com/), [Spring](https://spring.io/),[Apigee](https://cloud.google.com/apigee/), [Sentry](https://sentry.io/), [Cert Manager](https://cert-manager.io/), [graylog](https://www.graylog.org/), [Ruby on Rails](https://rubyonrails.org/)
+      <div class="section group">
+        <div class="col span_1_of_1">
+          <img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/wlab.png">
+        </div>
+      </div>
+
+*   ***Branch8 Ltd*** (backed by [YCombinator](https://www.ycombinator.com/) S15)
+
+    *Software Engineer* (Feb 2016 - Aug 2018)
 
     - branch8 - an all-in-one SaaS marketplace resource management system to better manage products and orders across all marketplaces
       - Over 10 million of products are managed by branch8
@@ -38,9 +55,9 @@ layout: page
 		- Cadobox - An online diet restaurant (fb messenger)
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/cadobox.gif)
 
-*   ***Premiumsoft Cybertech Ltd*** (Hong Kong)
+*   ***Premiumsoft Cybertech Ltd***
 
-    *Senior Software Developer*, Sep 2013 - Feb 2016
+    *Senior Software Developer* (Sep 2013 - Feb 2016)
 
     - Developed "Grab for Instagram" in both Android and iOS version.
     	- Award the 19th Webby Awards Official Honoree — *MOBILE SITES & APPS "Best Use of Mobile Camera"* in 2015
@@ -79,16 +96,16 @@ layout: page
 		- Bubble Search Bar
 			- ![](https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/bubbleSearchBar.png)
 
-*   ***Coffee Game*** (Hong Kong)
+*   ***Coffee Game***
 
-    *Game Developer*, Jun 2013 - Aug 2013
+    *Game Developer* (Jun 2013 - Aug 2013)
 
     - Developed a mobile game called "Attack on Pirates"
     - It is also open source on [here](https://github.com/dyhpoon/game-project)
 
-*   ***Macsteel International Far East Ltd*** (Hong Kong)
+*   ***Macsteel International Far East Ltd***
 
-    *Intern*, May 2009 - Jul 2009
+    *Intern* (May 2009 - Jul 2009)
 
     - Data analysis
 
@@ -129,7 +146,7 @@ layout: page
 
 ## Education
 -----
-*   ***City University of Hong Kong*** (Hong Kong)
+*   ***City University of Hong Kong***
 
     *M.S. in Computer Science* (Distinction), Sep 2012 - Jul 2013
 
