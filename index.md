@@ -138,10 +138,10 @@ layout: page
 [Android Dockerfiles](https://github.com/dyhpoon/Android-Dockerfiles) - Containerized Android Emulator
 <p class="italic small-text-size">Example usage:</p>
 {% highlight js %}
-	docker run -it \
-	-v /Path/to/your/android/project/:/workspace \
-	dyhpoon/android-emulator-21 start-emulator \
-	"./gradlew connectedAndroidTest"
+docker run -it \
+-v /Path/to/your/android/project/:/workspace \
+dyhpoon/android-emulator-21 start-emulator \
+"./gradlew connectedAndroidTest"
 {% endhighlight %}
 
 ## Education
