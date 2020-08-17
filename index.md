@@ -12,7 +12,7 @@ layout: page
 
     - Migrated Welend's loan disbursement system from ACH (Automated Clearing House) to FPS (Fast Payment System)
       - processing billions of HKD annually
-    - Participated in building one of the first virtual banks in Hong Kong
+    - Participated in building one of the virtual banks in Hong Kong
       - Worked with our team to design, implement, and extend our backend platform
       - Designed, developed security solutions to keep application data secure in dynamic infrastructure across clouds and environments
       - Extended and automated our deployment pipeline with CICD
