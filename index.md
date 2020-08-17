@@ -16,7 +16,7 @@ layout: page
       - Worked with our team to design, implement, and extend our backend platform
       - Designed, developed security solutions to keep application data secure in dynamic infrastructure across clouds and environments
       - Extended and automated our deployment pipeline with CICD
-      - We used: [Kubernetes](https://kubernetes.io/), [Airflow](https://airflow.apache.org/), [PostgreSQL](https://www.postgresql.org/), [Vault](https://www.vaultproject.io/), [Terraform](https://www.terraform.io/), [Zabbix](https://www.zabbix.com/), [Spring](https://spring.io/),[Apigee](https://cloud.google.com/apigee/), [Sentry](https://sentry.io/), [Cert Manager](https://cert-manager.io/), [graylog](https://www.graylog.org/), [Ruby on Rails](https://rubyonrails.org/), and etc
+      - We used: [Kubernetes](https://kubernetes.io/), [Airflow](https://airflow.apache.org/), [PostgreSQL](https://www.postgresql.org/), [ArgoCD](https://argoproj.github.io/argo-cd/), [Vault](https://www.vaultproject.io/), [Terraform](https://www.terraform.io/), [Zabbix](https://www.zabbix.com/), [Spring](https://spring.io/),[Apigee](https://cloud.google.com/apigee/), [Sentry](https://sentry.io/), [Cert Manager](https://cert-manager.io/), [graylog](https://www.graylog.org/), [Ruby on Rails](https://rubyonrails.org/), and etc
       <div class="section group">
         <div class="col span_1_of_1">
           <img src="https://raw.githubusercontent.com/dyhpoon/dyhpoon.github.io/master/public/screenshots/wlab.png">
